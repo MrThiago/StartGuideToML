@@ -33,4 +33,4 @@ $    (sudo) pip install -U scikit-learn
 #### Now lets test it
 Run $ jupyter notebook
 
-If Jupyter has opened up in your Browser I am good for next step:
+If Jupyter has opened up in your Browser, then we are ready for next step:
