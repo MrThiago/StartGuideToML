@@ -30,6 +30,10 @@ $    (sudo) pip install jupyter tensorflow keras numpy scipy ipython pandas matp
 
 $    (sudo) pip install -U scikit-learn
 
+$    (sudo) pip install pydotplus xlrd
+
+$    conda install statsmodels
+
 #### Now lets test it
 Run $ jupyter notebook
 
